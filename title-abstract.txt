@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Developing a machine-learning model to predict perovskite film lifespans using experimental data
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+As it currently stands in order to know the lifetime of a perovskite film we must wait weeks or even months until the film is fully degraded. This is a problem as we will have to wait weeks or months to know for sure if a change in a chemical’s molarity will cause the film to degrade faster or slower for example. In this paper, we tackle the problem by making a machine learning model that provides insight on the lifetime of a perovskite film at an early stage in the process. With help of the model, researchers would be able to accelerate the experiment procedure and gain early insight regarding the impact of a change in experiment on the lifetime of the film.
